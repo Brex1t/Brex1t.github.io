@@ -12,6 +12,10 @@ font-family: sans-serif;
 h1 {
   text-align: center;
 }
+h2 {
+  text-align: center;
+  font-size: 20px;
+}
 button {
   border-color: #28315C;
   background-color: #2838b3;
