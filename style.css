@@ -1,10 +1,10 @@
 body {
   background-color: #fff;
 font-family: sans-serif;
-  color: #28315C;
+  color: #ffffff;
   font-size: 30px;
-  height: 100%;
-  width: 100%;
+  height: 90%;
+  width: 90%;
   position: absolute;
   background-color: black;
   background-image: url('https://static.pexels.com/photos/113885/pexels-photo-113885.jpeg');
@@ -18,7 +18,7 @@ h2 {
 }
 button {
   border-color: #28315C;
-  background-color: #2838b3;
+  background-color: #ffffff;
   color: #ffffff;
   font-size: 30px;
 }
