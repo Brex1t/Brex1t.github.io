@@ -3,11 +3,11 @@ body {
 font-family: sans-serif;
   color: #28315C;
   font-size: 30px;
-  height: 80%;
-  width: 70%;
+  height: 100%;
+  width: 100%;
   position: absolute;
   background-color: black;
-  background-image: url('http://en-production-assets.s3.amazonaws.com/2014/12/19/07/45/33/611/brussels.jpg');
+  background-image: url('https://static.pexels.com/photos/113885/pexels-photo-113885.jpeg');
 }
 h1 {
   text-align: center;
