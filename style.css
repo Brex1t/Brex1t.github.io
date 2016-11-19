@@ -3,8 +3,8 @@ body {
 font-family: sans-serif;
   color: #ffffff;
   font-size: 30px;
-  height: 90%;
-  width: 90%;
+  height: 100%;
+  width: 100%;
   position: absolute;
   background-color: black;
   background-image: url('https://static.pexels.com/photos/113885/pexels-photo-113885.jpeg');
@@ -20,7 +20,7 @@ h2 {
 button {
   border-color: #28315C;
   background-color: #ffffff;
-  color: #ffffff;
+  color: black;
   font-size: 30px;
 }
 #quoteDisplay {
