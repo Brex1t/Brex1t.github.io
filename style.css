@@ -8,24 +8,28 @@ font-family: sans-serif;
   position: absolute;
   background-color: black;
   background-image: url('https://static.pexels.com/photos/113885/pexels-photo-113885.jpeg');
-  background-position: center;
+  background-position: 2300px 1300px;;
 }
 h1 {
+  padding: 90px 0px 0px 0px;
   text-align: center;
 }
 h2 {
+  padding: 0px 0px 60px 0px;
   text-align: center;
   font-size: 20px;
 }
 button {
   border-color: #28315C;
   background-color: #ffffff;
-  color: black;
+  color: #000000;
   font-size: 30px;
 }
 #quoteDisplay {
   padding: 30px;
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
   text-align: center;
+  font-size: 50px;
+  font-weight: 900;
  
 }
