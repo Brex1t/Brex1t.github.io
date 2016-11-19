@@ -23,7 +23,8 @@ button {
   font-size: 30px;
 }
 #quoteDisplay {
+  font-family: 'Slabo 27px', serif;
   padding: 30px;
   text-align: center;
-  font-family: 'Slabo 27px', serif;
+ 
 }
