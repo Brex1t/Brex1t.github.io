@@ -8,6 +8,7 @@ font-family: sans-serif;
   position: absolute;
   background-color: black;
   background-image: url('https://static.pexels.com/photos/113885/pexels-photo-113885.jpeg');
+  background-position: center;
 }
 h1 {
   text-align: center;
